@@ -31,7 +31,7 @@ begin
 					readln(i);
 					end;		
 		until (i >= 1 ) and (i <= 9);			
-				Repeat
+				 Repeat
 				
 			write('Introduzca la posicion de la fila: ');
 				readln(j); 
