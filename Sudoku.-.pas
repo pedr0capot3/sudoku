@@ -1,4 +1,4 @@
-program sudoku;
+ program sudoku;
 { Luis Narvaez
 * Pedro Capote
 * Miguel Millan
